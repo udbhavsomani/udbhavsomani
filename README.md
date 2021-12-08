@@ -45,7 +45,7 @@
 <br/>
 
 <a href="https://github.com/Udbhav18">
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=udbhav18&theme=radical&show_icons=true&count_private=true&include_all_commits=true" />
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=udbhav1.8&theme=radical&show_icons=true&count_private=true&include_all_commits=true" />
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udbhav18&theme=radical&layout=compact" />
 </a>
 
