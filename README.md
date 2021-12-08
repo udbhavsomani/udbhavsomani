@@ -4,6 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Studying Computer Engineering at TIET, Patiala.
+- 💼 &nbsp; Joint Secretary [@creative-computing-society](https://github.com/creative-computing-society).
 
 <p>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Udbhav18" id="counter">
@@ -15,6 +16,7 @@
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 - 🌐 &nbsp;
+  ![Django](https://img.shields.io/badge/-Python-333333?style=flat&logo=Django)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -50,3 +52,7 @@
 <a href="https://www.instagram.com/udbhav_somani/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-udbhav_somani-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:usomani_be19@thapar.edu"><img alt="Email" src="https://img.shields.io/badge/Email-usomani_be19@thapar.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
+
+<img width="1500" height="auto" align="center" alt="UdbhavSomani's github stats" src="https://github-profile-trophy.vercel.app/?username=udbhav18&row=1&column=7&theme=darkhub&margin-w=15e" />
+![trophy](https://github-profile-trophy.vercel.app/?username=udbhav18&row=7&column=7&theme=darkhub&margin-w=15)]
+  
