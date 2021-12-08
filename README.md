@@ -54,5 +54,5 @@
 </p>
 
 <img width="1500" height="auto" align="center" alt="UdbhavSomani's github stats" src="https://github-profile-trophy.vercel.app/?username=udbhav18&row=1&column=7&theme=darkhub&margin-w=15e" />
-![trophy](https://github-profile-trophy.vercel.app/?username=udbhav18&row=7&column=7&theme=darkhub&margin-w=15)]
+![trophy](https://github-profile-trophy.vercel.app/?username=udbhav18&row=7&column=7&theme=darkhub&margin-w=15)
   
