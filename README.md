@@ -1,11 +1,13 @@
 <h2> Hey there! I'm Udbhav Somani.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3>👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Studying Computer Engineering at TIET, Patiala.
 - 💼 &nbsp; Joint Secretary [@creative-computing-society](https://github.com/creative-computing-society).
+- Currently working on ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=Firebase) and ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=GraphQL).
 
+<br />
 <p>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Udbhav18" id="counter">
 </p>
