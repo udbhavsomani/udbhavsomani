@@ -59,8 +59,8 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/udbhavsomani/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-udbhavsomani-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:usomani_be19@thapar.edu"><img alt="Email" src="https://img.shields.io/badge/Email-usomani_be19@thapar.edu-blue?style=flat-square&logo=gmail"></a>
-<a href="https://www.twitter.com/udbhav_somani/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-udbhav_somani-blue?style=flat-square&logo=twitter"></a>
-<a href="https://www.instagram.com/udbhav_somani/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-udbhav_somani-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.twitter.com/udbhavsomani/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-udbhavsomani-blue?style=flat-square&logo=twitter"></a>
+<a href="https://www.instagram.com/udbhavsomani/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-udbhavsomani-blue?style=flat-square&logo=instagram"></a>
 </p>
 <hr />
 <br />
