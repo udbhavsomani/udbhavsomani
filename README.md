@@ -9,7 +9,7 @@
 
 <br />
 <p>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Udbhav18" id="counter">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=udbhavsomani" id="counter">
 </p>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
