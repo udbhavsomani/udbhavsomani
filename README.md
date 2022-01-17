@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Studying Computer Engineering at TIET, Patiala.
 - 💼 &nbsp; Joint Secretary [@creative-computing-society](https://github.com/creative-computing-society).
-- Currently working on ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=Firebase) and ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=GraphQL).
+- Currently working on ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=GraphQL).
 
 <br />
 <p>
@@ -16,7 +16,7 @@
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![C++](https://img.shields.io/badge/-C/C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 - 🌐 &nbsp;
   ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -29,17 +29,21 @@
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
 - ☁️ &nbsp;
   ![Nginx](https://img.shields.io/badge/-Nginx-333333?style=flat&logo=nginx)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
+  ![Travis CI](https://img.shields.io/badge/-Travis%20CI-333333?style=flat&logo=travis)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Android Studio](https://img.shields.io/badge/Android%20Studio-333333?style=flat&logo=androidstudio)
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
