@@ -3,8 +3,7 @@
 <h3>👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies.
-- 🎓 &nbsp; Studying Computer Engineering at TIET, Patiala.
-- 💼 &nbsp; Joint Secretary [@creative-computing-society](https://github.com/creative-computing-society).
+- 🎓 &nbsp; Pre-final year Computer Engineering student at TIET, Patiala.
 - Currently learning ![GO](https://img.shields.io/badge/-GO-333333?style=flat&logo=GO).
 
 <br />
