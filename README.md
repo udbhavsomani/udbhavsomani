@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Studying Computer Engineering at TIET, Patiala.
 - 💼 &nbsp; Joint Secretary [@creative-computing-society](https://github.com/creative-computing-society).
-- Currently working on ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=GraphQL).
+- Currently learning ![GO](https://img.shields.io/badge/-GO-333333?style=flat&logo=GO).
 
 <br />
 <p>
@@ -37,10 +37,12 @@
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
   ![Travis CI](https://img.shields.io/badge/-Travis%20CI-333333?style=flat&logo=travis)
+  ![Circle CI](https://img.shields.io/badge/-Circle%20CI-333333?style=flat&logo=circleci)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+  ![BitBucket](https://img.shields.io/badge/-Bitbucket-333333?logo=bitbucket)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Android Studio](https://img.shields.io/badge/Android%20Studio-333333?style=flat&logo=androidstudio)
