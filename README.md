@@ -3,7 +3,7 @@
 <h3>👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies.
-- 🎓 &nbsp; Pre-final year Computer Engineering student at TIET, Patiala.
+- 🎓 &nbsp; Final year Computer Engineering student at TIET, Patiala.
 - Currently learning ![GO](https://img.shields.io/badge/-GO-333333?style=flat&logo=GO).
 
 <br />
