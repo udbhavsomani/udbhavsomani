@@ -1,4 +1,15 @@
-<h2> Hey there! I'm Udbhav Somani.</h2>
+<div align="center">
+  <img alt="snake eating my contribution" src="https://github.com/udbhavsomani/udbhavsomani/blob/output/github-contribution-grid-snake.svg">
+  <br>
+</div>
+
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Udbhav Somani</h1>
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Upcoming+Software+Developer+@JPMC;Web+Developer;DevOps+Enthusiast;B.E.+Computer+Science+@Thapar&center=true&size=20">
+  </a>
+</h1>
 
 <h3>👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -69,7 +80,4 @@
 </p>
 <hr />
 <br />
-
-<img width="1500" height="auto" align="center" alt="UdbhavSomani's github stats" src="https://github-profile-trophy.vercel.app/?username=udbhavsomani&row=1&column=7&theme=darkhub&margin-w=15e" />
-
-  
+ 
