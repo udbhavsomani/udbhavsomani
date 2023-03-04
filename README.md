@@ -13,7 +13,7 @@
 
 - 🤔 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Final year Computer Engineering student at TIET, Patiala.
-- Currently learning ![GO](https://img.shields.io/badge/-GO-333333?style=flat&logo=GO).
+<!-- - Currently learning ![GO](https://img.shields.io/badge/-GO-333333?style=flat&logo=GO). -->
 
 <br />
 <p>
